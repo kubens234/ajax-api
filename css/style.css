@@ -1,0 +1,26 @@
+body {
+	background: #55acee;
+	color: white;
+}
+main {
+	width: 800px;
+	margin: 0 auto;	
+}
+button {
+	width: 200px;
+	height: 30px;
+	border: 1px solid white;
+	background: #55acee;
+	color: white;
+}
+input {
+	width: 400px;
+	height: 30px;
+	margin-left: 50px;
+	margin-right: 10px;
+}
+h1, 
+h2 {
+	text-align: center;
+	margin: 40px auto;
+}
